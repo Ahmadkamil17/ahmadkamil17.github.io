@@ -1,0 +1,28 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family:algerian;
+}
+a{
+    color:inherit;
+    text-decoration: none;
+     }
+.pribadi{
+	padding:10px 50px;
+	background-color:#33FFF9;
+}
+ .container{
+ 	width: 80%;
+ 	margin:0px auto;
+ }
+.select{
+	padding:5px 0px;
+	background-color:black;
+}
+.select ul li{
+ display: inline-block;
+ color: #fff
+  }
+ .container{
+ 	width: 80%;
+ 	margin:0px auto;
